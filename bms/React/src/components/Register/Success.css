@@ -1,0 +1,23 @@
+.Success {
+    position: relative;
+    height: 80px;
+    width: 100%;
+    color: palevioletred;
+    text-align: center;
+    font-size: 40px;
+   }
+.p {
+    color: black;
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    font-size: 30px;
+}
+.Success1 {
+    position: relative;
+    height: 80px;
+    width: 100%;
+    color:red;
+    text-align: center;
+    font-size: 35px;
+   }
